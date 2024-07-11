@@ -8,7 +8,7 @@ Feasibility study and design ideas for 7 North Hotel.
 * College attendance
 * Rail Traffic
 * Pedestrian Traffic
-* Car Traffic
+* Car Traffic - traffic along Lancaster Ave. and adjacent roads
 * Bus Traffic
 * Employee counts, major businesses
 * Employee counts, small businesses
