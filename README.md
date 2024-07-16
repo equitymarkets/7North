@@ -12,3 +12,10 @@ Feasibility study and design ideas for 7 North Hotel.
 * Bus Traffic ✅
 * Employee counts, major businesses
 * Employee counts, small businesses
+
+
+Micro benefits:
+* Existing traffic provides a natural market for project
+* Resort-qualities bring in medium- to high-net worth clientele for a relatively affordable resort experience
+Macro benefits:
+* Re-establishes town as a center of commerce given surroundings
