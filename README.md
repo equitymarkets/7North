@@ -1,7 +1,8 @@
 # 7North
 
 
-Feasibility study and design ideas for 7 North Hotel. 
+Feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern design with traditional local architecture. 
+
 
 ## To-Do:
 
@@ -24,6 +25,7 @@ Macro benefits:
 Challenges
 * Amtrak lien
 * Cost of underground parking
+* 200 spaces temporarily lost during construction
 
 Further research:
 * 30th Street Station Improvements
