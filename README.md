@@ -21,5 +21,9 @@ Micro benefits:
 Macro benefits:
 * Re-establishes town as a center of commerce given surroundings
 
+Challenges
+* Amtrak lien
+* Cost of underground parking
+
 Further research:
 * 30th Street Station Improvements
