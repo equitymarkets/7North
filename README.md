@@ -20,7 +20,7 @@ Micro benefits:
 * Resort-qualities bring in medium- to high-net worth clientele for a relatively affordable resort experience
 
 Macro benefits:
-* Re-establishes town as a center of commerce given surroundings
+* Re-establishes town as a center of commerce and tourism given surroundings
 
 Challenges
 * Amtrak lien
