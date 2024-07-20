@@ -16,7 +16,7 @@ Feasibility study around existing infrastructure and design ideas for the 7 Nort
 
 
 Micro benefits:
-* Existing traffic provides a natural market for project
+* Existing traffic, hospital, theater, and colleges provide a natural market for project
 * Resort-qualities bring in medium- to high-net worth clientele for a relatively affordable resort experience
 
 Macro benefits:
