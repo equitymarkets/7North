@@ -28,7 +28,7 @@ Challenges
 * Cost of underground parking
 * 200 spaces temporarily lost during construction
 
-Project Challenges 
+Study Challenges 
 * Comparing data across metro services, boarding vs. total vs. unique
 
 Further research:
