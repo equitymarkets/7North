@@ -20,7 +20,8 @@ Micro benefits:
 * Resort-qualities bring in medium- to high-net worth clientele for a relatively affordable resort experience
 
 Macro benefits:
-* Re-establishes town as a center of commerce and tourism given surroundings
+* Re-establishes town as a center of commerce, education, and tourism given surroundings
+* Encourages increased usage of Paoli-Thorndale line
 
 Challenges
 * Amtrak lien
