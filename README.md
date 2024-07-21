@@ -27,5 +27,8 @@ Challenges
 * Cost of underground parking
 * 200 spaces temporarily lost during construction
 
+Project Challenges 
+* Comparing data across metro services, boarding vs. total vs. unique
+
 Further research:
 * 30th Street Station Improvements
