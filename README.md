@@ -8,7 +8,7 @@ Feasibility study around existing infrastructure and design ideas for the 7 Nort
 
 * College attendance ✅
 * Rail Traffic ✅
-* Pedestrian Traffic
+* Pedestrian Traffic - inference necessary
 * Car Traffic - traffic along Lancaster Ave. and Bryn Mawr Ave. ✅
 * Bus Traffic ✅
 * Employee counts, major businesses
