@@ -30,6 +30,7 @@ Challenges
 
 Study Challenges 
 * Comparing data across metro services, boarding vs. total vs. unique
+* Exact comparisons difficult
 
 Further research:
 * 30th Street Station Improvements
