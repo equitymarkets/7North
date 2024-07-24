@@ -31,7 +31,7 @@ Challenges
 Study Challenges 
 * Comparing data across metro services, boarding vs. total vs. unique
 * Exact comparisons difficult
-* Town names can be confusing - possibly use radius or Lower Merion Township vs. Bryn Mawr
+* Comparing town names can be confusing - possibly use radius from site or use Lower Merion Township vs. Bryn Mawr
 
 Further research:
 * 30th Street Station Improvements
