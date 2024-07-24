@@ -29,9 +29,9 @@ Challenges
 * 200 spaces temporarily lost during construction
 
 Study Challenges 
-* Comparing data across metro services, boarding vs. total vs. unique
-* Exact comparisons difficult
-* Comparing town names can be confusing - possibly use radius from site or use Lower Merion Township vs. Bryn Mawr
+* Comparing data across metro services, boarding vs. total vs. unique - Boarding seems to be most readily available and should give a number close to unique trips. 
+* Exact comparisons difficult - Note this in final draft including steps for best practices. 
+* Comparing town names can be confusing - Use radius out from local train station to determine proximity of features. 
 
 Further research:
 * 30th Street Station Improvements
