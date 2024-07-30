@@ -35,3 +35,6 @@ Study Challenges
 
 Further research:
 * 30th Street Station Improvements
+
+Step 1: 
+Deciding on a good group of test results similar to Lower Merion Township. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. 
