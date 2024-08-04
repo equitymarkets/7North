@@ -50,5 +50,6 @@ Forcing Points - Forcing points should be considered as time contraints rather t
 Further research:
 * 30th Street Station Improvements
 
+Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 Step 1: 
 Deciding on a good group of test results similar to Lower Merion Township. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. All raw data extracted for Lower Merion Township should be extracted from test markets in as comparable form as possible. 
