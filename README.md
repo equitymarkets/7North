@@ -13,6 +13,7 @@ Feasibility study around existing infrastructure and design ideas for the 7 Nort
 * Bus Traffic ✅
 * Employee counts, major businesses - inference
 * Employee counts, small businesses - inference
+* PHL airport distance, air traffic, and ridership
 
 
 Micro benefits:
@@ -26,15 +27,28 @@ Macro benefits:
 Challenges
 * Amtrak lien
 * Cost of underground parking
-* 200 spaces temporarily lost during construction
+* 200 spaces temporarily lost during construction (see forcing points below)
 
 Study Challenges 
 * Comparing data across metro services, boarding vs. total vs. unique - Boarding seems to be most readily available and should give a number close to unique trips. 
 * Exact comparisons difficult - Note this in final draft including steps for best practices. 
-* Comparing town names can be confusing - Use radius out from local train station to determine proximity of features. 
+* Comparing town names can be confusing - Use radius out from local train station to determine proximity of features.
+
+Forcing Points - Forcing points should be considered as time contraints rather than actual threats. Most of them represent economic growth in the long-run, and will thereby benefit feasibility and profit for our project. In the short-run, however, they represent constraints that could possibly enter the landscape in the near future. So acting on this project before action is taken will be greatly beneficial to all interested parties. Some have large implications, some have much smaller, if any, implications. The point of this section is to consider all forcing points, regardless of size or impact. 
+* Substitute parking situation should be implemented, utilized, and completed before construction of possible 2, 6, and 10 S. Bryn Mawr Avenue Project. In other words, the underground parking lot meant to replace Lot 7 should be operational before the mixed use project on the opposite corner begins, since that is the last remaining large source of parking overflow for existing Lot 7 Users. 
+*  Ardmore Hotel possibility - competition during the critical first years of operation
+*  College closure situation (e.g. Cabrini and other metro-area schools such as Art Institute of Philadelphia)
+*  Possibility of adverse height restrictions, similar to recent restrictions implemented in Ardmore
+*  Inevitable building downturn could cause funding to dry up, at least for a long business cycle
+*  Alternative development on Municipal Lot 7
+*  Increase or decrease of Harcum attendence - While a decrease could result in possible closure (see above), an increase could mean less parking spaces available for overflow during construction and Lot 7 closure
+*  Norristown Speed Line reopens County Line stop after improvement, opening possibility of more access to Villanova from competing hotel
+*  Wyndam House in Bryn Mawr College reopens, providing increased competition for the local lodging market
+*  Amtrak substation improvement slightly decreases local parking
+*  Continued unimpeded growth in Valley Forge/King of Prussia area, in particular, a glut of new hotel and conference space
 
 Further research:
 * 30th Street Station Improvements
 
 Step 1: 
-Deciding on a good group of test results similar to Lower Merion Township. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. 
+Deciding on a good group of test results similar to Lower Merion Township. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. All raw data extracted for Lower Merion Township should be extracted from test markets in as comparable form as possible. 
