@@ -49,7 +49,8 @@ Forcing Points - Forcing points should be considered as time contraints rather t
 
 Further research:
 * 30th Street Station Improvements
-* Possible Philadelphia 76ers Market East project
+* Possible Philadelphia 76ers Market East project (Jefferson Station)
+* Line extension to Coatesville
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 Step 1: 
