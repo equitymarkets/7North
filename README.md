@@ -53,8 +53,9 @@ Further research:
 * Line extension to Coatesville
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
-Step 1: 
-Deciding on a good group of test results similar to Lower Merion Township. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. All raw data extracted for Lower Merion Township should be extracted from test markets in as comparable form as possible.
-Step 2:
+
+Step 1: Read and interpret studies of a similar nature, preferably for hotels inside of town centers, if not available, do similar projects ( 1 week )
+Step 2: Decide on a good group of test results similar to Lower Merion Township from Step 1. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. All raw data extracted for Lower Merion Township should be extracted from test markets in as comparable form as possible. Conduct as synchonous as possible duplicate studies for the test markets. ( 1 week ).
+Step 3:
 Examining test results and all possible metrics with closest possible comparisons. 
 
