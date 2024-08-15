@@ -19,10 +19,12 @@ Feasibility study around existing infrastructure and design ideas for the 7 Nort
 Micro benefits:
 * Existing traffic, hospital, theater, and colleges provide a natural market for project
 * Resort-qualities bring in medium- to high-net worth clientele for a relatively affordable resort experience
+* Is both enhanced by local tourism and enhances regional/national tourism
 
 Macro benefits:
 * Re-establishes town as a center of commerce, education, and tourism given surroundings
 * Encourages increased usage of Paoli-Thorndale line
+* Social image of a town must include lodging alternatives
 
 Challenges
 * Amtrak lien
