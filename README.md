@@ -58,3 +58,23 @@ Deciding on a good group of test results similar to Lower Merion Township. Based
 Step 2:
 Examining test results and all possible metrics with closest possible comparisons. 
 
+
+
+Definitely:
+"old and the new"
+terrace idea
+elevator top floor
+
+Maybe not:
+arched fiberglass walks
+
+
+1. Viking Hotel
+2. Vie Hotel
+3. Asia Hotel
+4. Diamond Residence
+5. Chong Nonsi BRT
+6. Shibuya Stream
+
+
+
