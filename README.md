@@ -2,7 +2,7 @@
 
 
 Feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern design with traditional local architecture. 
-
+Since no two areas are alike, the main idea for the feasibility study is to find stations that are most similar to Bryn Mawr based on: 1) given distance from highways, hospitals, universities, and large employers and 2) population density and per capita income within the same or similar radius. 
 
 ## To-Do:
 
