@@ -78,6 +78,7 @@ arched fiberglass walks
 4. Diamond Residence
 5. Chong Nonsi BRT
 6. Shibuya Stream
+7. Shibuya Scramble Square
 
 
 
