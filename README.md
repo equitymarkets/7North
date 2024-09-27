@@ -71,16 +71,6 @@ elevator top floor
 Maybe not:
 arched fiberglass walks
 
-Inspirations:
-
-1. Viking Hotel
-2. Vie Hotel
-3. Asia Hotel
-4. Diamond Residence
-5. Chong Nonsi BRT
-6. Shibuya Stream
-7. Shibuya Scramble Square
-8. Talat Dee Dee
 
 
 
