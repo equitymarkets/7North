@@ -37,7 +37,7 @@ Study Challenges
 * Comparing town names can be confusing - Use radius out from local train station to determine proximity of features.
 * Ticket prices can greatly affect daily traffic to local stops, but may be unlikely to affect the propensity of one to actual hotel visits given an upscale hotel. 
 
-Forcing Points - Forcing points should be considered as time contraints rather than actual threats. Most of them represent economic growth in the long-run, and will thereby benefit feasibility and profit for our project. In the short-run, however, they represent constraints that could possibly enter the landscape in the near future. So acting on this project before action is taken will be greatly beneficial to all interested parties. Some have large implications, some have much smaller, if any, implications. The point of this section is to consider all forcing points, regardless of size or impact. 
+Forcing Points - Forcing points should be considered as time contraints rather than actual threats. Most of them represent economic growth in the long-run, and will thereby benefit feasibility and profit for our project. In the short-run, however, they represent constraints that could possibly enter the landscape in the near future. So acting on this project before action is taken on other projects will be greatly beneficial to all interested parties. Some have large implications, some have much smaller, if any, implications. The point of this section is to consider all forcing points, regardless of size or impact. 
 * Substitute parking situation should be implemented, utilized, and completed before construction of possible 2, 6, and 10 S. Bryn Mawr Avenue Project. In other words, the underground parking lot meant to replace Lot 7 should be operational before the mixed use project on the opposite corner begins, since that is the last remaining large source of parking overflow for existing Lot 7 Users. 
 *  Ardmore Hotel possibility - competition during the critical first years of operation
 *  College closure situation (e.g. Cabrini and other metro-area schools such as Art Institute of Philadelphia)
@@ -46,7 +46,7 @@ Forcing Points - Forcing points should be considered as time contraints rather t
 *  Alternative development on Municipal Lot 7
 *  Increase or decrease of Harcum attendence - While a decrease could result in possible closure (see above), an increase could mean less parking spaces available for overflow during construction and Lot 7 closure
 *  Norristown Speed Line reopens County Line stop after improvement, opening possibility of more access to Villanova from competing hotel
-*  Wyndam House in Bryn Mawr College reopens, providing increased competition for the local lodging market
+*  Wyndam House in Bryn Mawr College reopens, providing increased competition, although small, for the local lodging market
 *  Amtrak substation improvement slightly decreases local parking
 *  Continued unimpeded growth in Valley Forge/King of Prussia area, in particular, a glut of new hotel and conference space
 
@@ -55,6 +55,7 @@ Further research:
 * Possible Philadelphia 76ers Market East project (Jefferson Station)
 * Line extension to Coatesville
 * New Norristown speed line KOP station
+* County Line Station improvements and reopening
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
@@ -66,7 +67,7 @@ Examining test results and all possible metrics with closest possible comparison
 
 
 Definitely:
-"old and the new"
+"old and the new"- outside (old) existing architectural styles of historic Main Line structures, inside (new) -modern, Asian-influenced, feng shui, modern Tokyo, Bangkok, Seoul structures, minimalist, practical
 terrace idea
 elevator top floor
 
