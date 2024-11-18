@@ -71,6 +71,9 @@ Definitely:
 terrace idea
 elevator top floor
 
+Maybe:
+conical or octagon roof at beveled corners
+
 Maybe not:
 arched fiberglass walks
 
