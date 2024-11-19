@@ -47,7 +47,7 @@ Forcing Points - Forcing points should be considered as time contraints rather t
 *  Increase or decrease of Harcum attendence - While a decrease could result in possible closure (see above), an increase could mean less parking spaces available for overflow during construction and Lot 7 closure
 *  Norristown Speed Line reopens County Line stop after improvement, opening possibility of more access to Villanova from competing hotel
 *  Wyndam House in Bryn Mawr College reopens, providing increased competition, although small, for the local lodging market
-*  Amtrak substation improvement slightly decreases local parking
+*  Amtrak substation improvement slightly decreases local parking - BEGAN NOV. 2024
 *  Continued unimpeded growth in Valley Forge/King of Prussia area, in particular, a glut of new hotel and conference space
 
 Further research:
@@ -61,6 +61,7 @@ Possible Partnerships - representing large organizations that may be interested 
 
 Step 1: Read and interpret studies of a similar nature, preferably for hotels inside of town centers, if not available, do similar projects ( 1 week )
 Step 2: Decide on a good group of test results similar to Lower Merion Township from Step 1. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. All raw data extracted for Lower Merion Township should be extracted from test markets in as comparable form as possible. Conduct as synchonous as possible duplicate studies for the test markets. ( 1 week ).
+    New approach: inputs: college students, hospital beds, local businesses, car traffic, train station traffic output: stations most similar to Bryn Mawr analysis: hotel rooms in output towns
 Step 3:
 Examining test results and all possible metrics with closest possible comparisons. 
 
