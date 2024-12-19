@@ -34,7 +34,7 @@ Challenges
 Study Challenges 
 * Comparing data across metro services, boarding vs. total vs. unique - Boarding seems to be most readily available and should give a number close to unique trips. 
 * Exact comparisons difficult - Note this in final draft including steps for best practices. 
-* Comparing town names can be confusing - Use radius out from local train station to determine proximity of features.
+* Comparing solely by town can be confusing - Use radius out from local train station to determine proximity of features.
 * Ticket prices can greatly affect daily traffic to local stops, but may be unlikely to affect the propensity of one to actual hotel visits given an upscale hotel. 
 
 Forcing Points - Forcing points should be considered as time contraints rather than actual threats. Most of them represent economic growth in the long-run, and will thereby benefit feasibility and profit for our project. In the short-run, however, they represent constraints that could possibly enter the landscape in the near future. So acting on this project before action is taken on other projects will be greatly beneficial to all interested parties. Some have large implications, some have much smaller, if any, implications. The point of this section is to consider all forcing points, regardless of size or impact. 
