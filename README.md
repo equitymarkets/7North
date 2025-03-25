@@ -52,7 +52,7 @@ Forcing Points - Forcing points should be considered as time contraints rather t
 
 Further research:
 * 30th Street Station Improvements
-* Possible Philadelphia 76ers Market East project (Jefferson Station)
+* Possible Philadelphia 76ers Market East project (Jefferson Station) - cancelled
 * Line extension to Coatesville
 * New Norristown speed line KOP station
 * County Line Station improvements and reopening
@@ -83,6 +83,9 @@ Rendering Ideas, research capabilities and cost:
 1. AutoCad
 2. Revit
 3. SketchUp
+
+
+
 
 
 
