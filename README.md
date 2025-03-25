@@ -17,7 +17,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 
 
 Micro benefits:
-* Existing traffic, hospital, theater, and colleges provide a natural market for project
+* Existing traffic, hospital, theater, colleges, businesses and seasonal markets provide a natural market for the project
 * Resort-qualities bring in medium- to high-net worth clientele for a relatively affordable resort experience
 * Is both enhanced by local tourism and enhances regional/national tourism
 
