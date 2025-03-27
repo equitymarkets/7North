@@ -13,7 +13,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 * Bus Traffic ✅
 * Employee counts, major businesses - inference
 * Employee counts, small businesses - inference
-* PHL airport distance, air traffic, and ridership
+* PHL airport distance and ridership
 
 
 Micro benefits:
