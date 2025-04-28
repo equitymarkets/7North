@@ -1,7 +1,7 @@
 # 7North
 
 
-Feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern design with traditional local architecture.  
+Feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern interior design with traditional local architecture.  
 Since no two areas are alike, the main idea for the feasibility study is to find stations that are most similar to Bryn Mawr based on: 1) given distance from highways, hospitals, universities, and large employers and 2) population density and per capita income within the same or similar radius. 
 
 ## To-Do:
@@ -13,7 +13,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 * Bus Traffic ✅
 * Employee counts, major businesses - inference
 * Employee counts, small businesses - inference
-* PHL airport distance and ridership
+* PHL airport distance and ridership ✅
 
 
 Micro benefits:
@@ -30,6 +30,7 @@ Challenges
 * Amtrak lien
 * Cost of underground parking
 * 200 spaces temporarily lost during construction (see forcing points below)
+* SEPTA funding issues and PAO threats
 
 Study Challenges 
 * Comparing data across metro services, boarding vs. total vs. unique - Boarding seems to be most readily available and should give a number close to unique trips. 
@@ -37,7 +38,7 @@ Study Challenges
 * Comparing solely by town can be confusing - Use radius out from local train station to determine proximity of features.
 * Ticket prices can greatly affect daily traffic to local stops, but may be unlikely to affect the propensity of one to actual hotel visits given an upscale hotel. 
 
-Forcing Points - Forcing points should be considered as time contraints rather than actual threats. Most of them represent economic growth in the long-run, and will thereby benefit feasibility and profit for our project. In the short-run, however, they represent constraints that could possibly enter the landscape in the near future. So acting on this project before action is taken on other projects will be greatly beneficial to all interested parties. Some have large implications, some have much smaller, if any, implications. The point of this section is to consider all forcing points, regardless of size or impact. 
+Forcing Points - Forcing points should be considered as time contraints rather than actual threats. Most of them represent economic growth in the long-run, and will thereby benefit feasibility and profit for proposed project. In the short-run, however, they represent constraints that could possibly hinder development in the near future. So acting on this project before action is taken on other projects will be greatly beneficial to all interested parties. Some have large implications, some have much smaller, if any, implications. The point of this section is to consider all forcing points, regardless of size or impact. 
 * Substitute parking situation should be implemented, utilized, and completed before construction of possible 2, 6, and 10 S. Bryn Mawr Avenue Project. In other words, the underground parking lot meant to replace Lot 7 should be operational before the mixed use project on the opposite corner begins, since that is the last remaining large source of parking overflow for existing Lot 7 Users. 
 *  Ardmore Hotel possibility - competition during the critical first years of operation
 *  College closure situation (e.g. Cabrini and other metro-area schools such as Art Institute of Philadelphia)
