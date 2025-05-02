@@ -41,12 +41,12 @@ Study Challenges
 Forcing Points - Forcing points should be considered as time contraints rather than actual threats. Most of them represent economic growth in the long-run, and will thereby benefit feasibility and profit for proposed project. In the short-run, however, they represent constraints that could possibly hinder development in the near future. So acting on this project before action is taken on other projects will be greatly beneficial to all interested parties. Some have large implications, some have much smaller, if any, implications. The point of this section is to consider all forcing points, regardless of size or impact. 
 * Substitute parking situation should be implemented, utilized, and completed before construction of possible 2, 6, and 10 S. Bryn Mawr Avenue Project. In other words, the underground parking lot meant to replace Lot 7 should be operational before the mixed use project on the opposite corner begins, since that is the last remaining large source of parking overflow for existing Lot 7 Users. 
 *  Ardmore Hotel possibility - competition during the critical first years of operation
-*  College closure situation (e.g. Cabrini and other metro-area schools such as Art Institute of Philadelphia)
+*  College closure situation (e.g. Cabrini and other metro-area schools such as Art Institute of Philadelphia). Rosemont College has announced closure. 
 *  Possibility of adverse height restrictions, similar to recent restrictions implemented in Ardmore
 *  Inevitable building downturn could cause funding to dry up, at least for a long business cycle
 *  Alternative development on Municipal Lot 7
 *  Increase or decrease of Harcum attendence - While a decrease could result in possible closure (see above), an increase could mean less parking spaces available for overflow during construction and Lot 7 closure
-*  Norristown Speed Line reopens County Line stop after improvement, opening possibility of more access to Villanova from competing hotel
+*  Norristown Speed Line reopens County Line stop after improvement, opening possibility of more public transit access to Villanova from competing hotel
 *  Wyndam House in Bryn Mawr College reopens, providing increased competition, although small, for the local lodging market
 *  Amtrak substation improvement slightly decreases local parking - BEGAN NOV. 2024
 *  Continued unimpeded growth in Valley Forge/King of Prussia area, in particular, a glut of new hotel and conference space
@@ -58,11 +58,12 @@ Further research:
 * New Norristown speed line KOP station
 * County Line Station improvements and reopening
 * Strong Towns Initiative
+* Growth near Radnor Station
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
 Step 1: Read and interpret studies of a similar nature, preferably for hotels inside of town centers, if not available, do similar projects ( 1 week )
-Step 2: Decide on a good group of test results similar to Lower Merion Township from Step 1. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. All raw data extracted for Lower Merion Township should be extracted from test markets in as comparable form as possible. Conduct as synchonous as possible duplicate studies for the test markets. ( 1 week ).
+Step 2: Decide on a good group of test results similar to Lower Merion Township from Step 1. Based on this, some similar areas are Westfield, NJ, Princeton, NJ, Arlington, VA, Tysons, VA, Evanston, IL, Bethesda, MD, and Chapel Hill, NC. Focus is on train stops/village centers and the radius around them, not necessarily the town or city designation of the addresses. All raw data extracted for Lower Merion Township should be extracted from test markets in as comparable form as possible. Conduct as synchonous as possible duplicate studies for the test markets. ( 1 week ).
     New approach: inputs: college students, hospital beds, local businesses, car traffic, train station traffic output: stations most similar to Bryn Mawr analysis: hotel rooms in output towns
 Step 3:
 Examining test results and all possible metrics with closest possible comparisons. 
@@ -73,9 +74,11 @@ Definitely:
 "old and the new"- outside (old) existing architectural styles of historic Main Line structures, inside (new) -modern, Asian-influenced, feng shui, modern Tokyo, Bangkok, Seoul structures, minimalist, practical
 terrace idea
 elevator top floor
+year-round marketplace to embrace and improve (and in no way impede) Bryn Mawr Farmer's Market and Clover Market
 
 Maybe:
 conical or octagon roof at beveled corners
+Atrium for Pool 2 area, retractable? if permanently outdoor, provide alternative winter use for covered pool area, not just plastic cover
 
 Maybe not:
 arched fiberglass walks
