@@ -59,7 +59,8 @@ Further research:
 * County Line Station improvements and reopening
 * Strong Towns Initiative
 * Growth near Radnor Station
-* Urban 3 Consulting
+* Urban 3 Consulting and similar
+* Urbanism movement
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
