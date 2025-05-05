@@ -61,6 +61,7 @@ Further research:
 * Growth near Radnor Station
 * Urban 3 Consulting and similar
 * Urbanism movement
+* Virginia's Bull's Eye concept around stations
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
