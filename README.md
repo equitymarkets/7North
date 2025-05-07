@@ -60,7 +60,7 @@ Further research:
 * Strong Towns Initiative
 * Growth near Radnor Station
 * Urban 3 Consulting and similar
-* Urbanism movement
+* Urbanism movement and 10 principles of intelligent urbanism
 * Virginia's Bull's Eye concept around stations
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
