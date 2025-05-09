@@ -14,6 +14,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 * Employee counts, major businesses - inference
 * Employee counts, small businesses - inference
 * PHL airport distance and ridership ✅
+* Priorities
 
 
 Micro benefits:
@@ -25,6 +26,10 @@ Macro benefits:
 * Re-establishes town as a center of commerce, education, and tourism given surroundings
 * Encourages increased usage of Paoli-Thorndale line
 * Social image of a town must include lodging alternatives
+
+Priorities:
+* Pedestrian safety and connectivity
+  
 
 Challenges
 * Amtrak lien
