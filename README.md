@@ -74,6 +74,7 @@ Further research:
 * Urban 3 Consulting and similar
 * Urbanism movement and 10 principles of intelligent urbanism
 * Virginia's Bull's Eye concept around stations, in particular the Silver and Orange lines
+* Concept of anti-fragility and the enhancement of this which this project brings
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
