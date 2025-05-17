@@ -62,11 +62,11 @@ Further research:
 * Line extension to Coatesville
 * New Norristown speed line KOP station
 * County Line Station improvements and reopening
-* Strong Towns Initiative
+* Strong Towns Initiative and Transit Priorities based upon these ideas
 * Growth near Radnor Station
 * Urban 3 Consulting and similar
 * Urbanism movement and 10 principles of intelligent urbanism
-* Virginia's Bull's Eye concept around stations
+* Virginia's Bull's Eye concept around stations, in particular the Silver and Orange lines
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
