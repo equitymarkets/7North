@@ -1,7 +1,14 @@
 # 7North
 
+"The original design and development of Bryn Mawr was an early form of TOD (Transit-Oriented Development), as were other Main
+Line communities that developed along the Main Line of the Pennsylvania Railroad. By re-enforcing
+the TOD concept in Bryn Mawr, we are reconnecting the community with its origins. By promoting
+transit-oriented development, there is potential to increase the number of rail riders and to realize a
+better return on public investment in infrastructure and services."
 
-Feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern interior design with traditional local architecture.  
+-Sasaki, 2009
+
+The following is a feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern interior design with traditional local architecture.  
 Since no two areas are alike, the main idea for the feasibility study is to find stations that are most similar to Bryn Mawr based on: 1) given distance from highways, hospitals, universities, and large employers and 2) population density and per capita income within the same or similar radius. 
 
 ## To-Do:
