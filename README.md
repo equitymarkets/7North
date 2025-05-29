@@ -8,6 +8,10 @@ better return on public investment in infrastructure and services."
 
 -Sasaki, 2009
 
+"We tried to unite public purpose and private profit, and if you can successfully do that, in anything, you've got a winner."
+
+-Roye Lowry, 2009 from "Arlington's Smart Growth Journey"
+
 The following is a feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern interior design with traditional local architecture.  
 Since no two areas are alike, the main idea for the feasibility study is to find stations that are most similar to Bryn Mawr based on: 1) given distance from highways, hospitals, universities, and large employers and 2) population density and per capita income within the same or similar radius, and to analyze their success with lodging alternatives. 
 
