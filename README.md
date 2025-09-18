@@ -88,7 +88,9 @@ Step 2: Decide on a good group of test results similar to Lower Merion Township 
 Step 3:
 Examining test results and all possible metrics with closest possible comparisons. 
 
-
+Priorities, in order:
+1. SAFETY - Concerns about past projects in Lower Merion have cited safety as a primary concern. As a busy Northeast town, Bryn Mawr already balances vehicles, trains, pedestrians (including joggers), and other modes of transporation, including bicycles and scooters. Safety, in fact, should be the primary concern in any new development, and any project should leave the existing environment safer than it was before. Some examples of this include expanded sidewalks with barriers against oncoming traffic, particularly along Lancaster Avenue, a sidewalk along North Bryn Mawr Avenue East to complete the interior sidewalk system around the property, the pedestrian tunnel from the train station (sheltered walk from traincar to hotel room, free of elements or car traffic), and possible crosswalks at the Northwest tip of North Bryn Mawr Avenue (near Santander Bank and Parvin's Pharmacy).
+2. ANTI-FRAGILITY - Properties must evolve. Transportation preferences change over time, and while a transit-oriented design is in focus, any surplus area should be 
 
 Definitely:
 "old and the new"- outside (old) existing architectural styles of historic Main Line structures, inside (new) -modern, Asian-influenced, feng shui, modern Tokyo, Bangkok, Seoul structures, minimalist, practical
