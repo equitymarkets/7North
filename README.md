@@ -12,6 +12,16 @@ better return on public investment in infrastructure and services."
 
 -Roye Lowry, 2009 from "Arlington's Smart Growth Journey"
 
+"The commercial success of Tokyo Station is the
+result of Japanese railway companies’ continuing exploration for profitable business to utilize the annex
+commercial facilities around station buildings. This
+shows the importance of managing profitable business in addition to the conventional railway business
+in achieving a successful TOD."
+
+-(Tokyo, Japan) International Affairs Office, City Bureau,
+Ministry of Land, Infrastructure, Transport and Tourism
+(MLIT), Japan's TOD Guidebook, 2021
+
 The following is a feasibility study around existing infrastructure and design ideas for the 7 North Hotel, incorporating modern interior design with traditional local architecture.  
 Since no two areas are alike, the main idea for the feasibility study is to find stations that are most similar to Bryn Mawr based on: 1) given distance from highways, hospitals, universities, and large employers and 2) population density and per capita income within the same or similar radius, and to analyze their success with lodging alternatives. 
 
