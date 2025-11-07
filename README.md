@@ -60,6 +60,7 @@ Challenges
 * Cost of underground parking
 * 200 spaces temporarily lost during construction (see forcing points below)
 * SEPTA funding issues and PAO threats
+* Common ground needed between Lower Merion Township, PennDot, Amtrak, SEPTA, and possibly other parties
 
 Study Challenges (Development of Proof of Concept) 
 * Comparing data across metro services, boarding vs. total vs. unique - Boarding seems to be most readily available and should give a number close to unique trips. 
@@ -91,7 +92,7 @@ Further research:
 * Urban 3 Consulting and similar
 * Urbanism movement and 10 principles of intelligent urbanism
 * Virginia's Bull's Eye concept around stations, in particular the Silver and Orange lines
-* Concept of anti-fragility and the enhancement of this which this project brings
+* Nassim Taleb's concept of anti-fragility and the enhancement of this which this project brings
 * Peter Calthorpe and TOD
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
@@ -103,15 +104,15 @@ Step 3:
 Examining test results and all possible metrics with closest possible comparisons. 
 
 Priorities, in order:
-1. SAFETY - Concerns about past projects in Lower Merion have cited safety as a primary concern. As a busy Northeast town, Bryn Mawr already balances vehicles, trains, pedestrians (including joggers), and other modes of transporation, including bicycles and scooters. Safety, in fact, should be the primary concern in any new development, and any project should leave the existing environment safer than it was before. Some examples of this include expanded sidewalks with barriers against oncoming traffic, particularly along Lancaster Avenue, a sidewalk along North Bryn Mawr Avenue East to complete the interior sidewalk system around the property, the pedestrian tunnel from the train station (sheltered walk from traincar to hotel room, free of elements or car traffic), and possible crosswalks at the Northwest tip of North Bryn Mawr Avenue (near Santander Bank and Parvin's Pharmacy).
+1. SAFETY - Concerns about past projects in Lower Merion have cited safety as a primary concern. As a busy Northeast town, Bryn Mawr already balances vehicles, trains, pedestrians (including joggers), and other modes of transporation, including bicycles and scooters. Safety, in fact, should be the primary concern in any new development, and any project should leave the existing environment safer than it was before. Some examples of this include expanded sidewalks with barriers against oncoming traffic, particularly along Lancaster Avenue, a sidewalk along North Bryn Mawr Avenue East to complete the interior sidewalk system around the property, the pedestrian tunnel from the train station (sheltered walk from traincar to hotel room, free of elements or vehicle traffic), and possible crosswalks at the Northwest tip of North Bryn Mawr Avenue (near Santander Bank and Parvin's Pharmacy).
 2. CONVENIENCE - 
-3. ANTI-FRAGILITY - Properties must evolve. Transportation preferences change over time, and while a transit-oriented design is in focus, any surplus area should be available for quick conversion to alternative means. For example, parking spaces can expand or contract given market contraction or expansion. This future-proofing of the valuable underground space will support both increases and decreases in driving habits, as well as provide shared parking to other nearby facilities, including downtown retail and Bryn Mawr train station.
-5. AESTHETICS - 
+3. ANTI-FRAGILITY - Properties must evolve. Transportation preferences change over time, and while a transit-oriented design is in focus, any surplus area should be available for quick conversion to alternative means. For example, parking spaces can expand or contract given market contraction or expansion. This future-proofing of the valuable underground "flex" space will support both increases and decreases in driving habits, as well as provide shared parking to other nearby facilities, including downtown retail and Bryn Mawr train station.
+4. AESTHETICS - 
 
 -While these are prioritized in order, it is fair to assume that all are equally necessary from a purely going-concern basis!
 
 Definitely:
-"old and the new"- outside (old) existing architectural styles of historic Main Line structures, inside (new) -modern, Asian-influenced, feng shui, modern Tokyo, Bangkok, Seoul structures, minimalist, practical
+"old and the new"- outside (old) existing architectural styles of historic Main Line structures, inside (new) -modern, Asian-influenced, feng shui, modern Tokyo, Bangkok, Seoul structures, minimalist, luxurious, practical
 terrace idea
 elevator top floor
 year-round marketplace to embrace and improve (and in no way impede) Bryn Mawr Farmer's Market and Clover Market
