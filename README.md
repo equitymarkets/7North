@@ -95,6 +95,9 @@ Further research:
 * Nassim Taleb's concept of anti-fragility and the enhancement of this which this project brings
 * Peter Calthorpe and TOD
 
+Links:
+Japan's TOD: https://www.mlit.go.jp/common/001398605.pdf
+
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
 Step 1: Read and interpret studies of a similar nature, preferably for hotels inside of town centers, if not available, do similar projects ( 1 week )
