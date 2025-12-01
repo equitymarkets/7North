@@ -76,7 +76,7 @@ Forcing Points - Forcing points should be considered as time contraints rather t
 *  Inevitable building downturn could cause funding to dry up, at least for a long business cycle
 *  Alternative development on Municipal Lot 7
 *  Increase or decrease of Harcum attendence - While a decrease could result in possible closure (see above), an increase could mean less parking spaces available for overflow during construction and Lot 7 closure
-*  Norristown Speed Line reopens County Line stop after improvement, opening possibility of more public transit access to Villanova from competing hotel
+*  Norristown Speed Line reopens County Line stop after improvement, opening possibility of more public transit access to Villanova from competing hotel - REOPENED 2025
 *  Wyndam House in Bryn Mawr College reopens, providing increased competition, although small, for the local lodging market
 *  Amtrak substation improvement slightly decreases local parking - BEGAN NOV. 2024
 *  Continued unimpeded growth in Valley Forge/King of Prussia area, in particular, a glut of new hotel and conference space
