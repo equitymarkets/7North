@@ -32,8 +32,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 * Pedestrian Traffic - inference ✅
 * Car Traffic - traffic along Lancaster Ave. and Bryn Mawr Ave. ✅
 * Bus Traffic ✅
-* Employee counts, major businesses - inference
-* Employee counts, small businesses - inference
+* Employee counts, local businesses - inference
 * PHL airport distance and ridership ✅
 * Priorities
 
