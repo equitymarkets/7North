@@ -96,6 +96,7 @@ Further research:
 
 Links:
 Japan's TOD: https://www.mlit.go.jp/common/001398605.pdf
+
 Jarrett Walker's Human Transit Blog: https://humantransit.org/
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
