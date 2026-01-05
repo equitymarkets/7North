@@ -29,7 +29,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 
 * College attendance ✅
 * Rail Traffic ✅
-* Pedestrian Traffic - inference ✅
+* Pedestrian Traffic - inference by personal observation ✅
 * Car Traffic - traffic along Lancaster Ave. and Bryn Mawr Ave. ✅
 * Bus Traffic ✅
 * Employee counts, local businesses within *walking shed - inference
