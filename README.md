@@ -55,6 +55,7 @@ Priorities:
   
 
 Challenges
+* Public pushback - NIMBY effect
 * Amtrak lien
 * Cost of underground parking
 * 200 spaces temporarily lost during construction (see forcing points below)
