@@ -88,7 +88,7 @@ Further research:
 * 30th Street Station Improvements
 * Possible Philadelphia 76ers Market East project (Jefferson Station) - CANCELLED PERMANENTLY
 * Line extension to Coatesville
-* New Norristown speed line spur to KOP mall
+* New Norristown speed line spur to KOP mall - on hold indefinitely due to FTA concerns
 * County Line Station improvements and reopening
 * Strong Towns Initiative and Transit Priorities based upon these ideas
 * Growth near Radnor Station
