@@ -29,12 +29,14 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 
 * College attendance ✅
 * Rail Traffic ✅
-* Pedestrian Traffic - inference by personal observation ✅
+* Pedestrian Traffic - inference by *personal observation ✅
 * Car Traffic - traffic along Lancaster Ave. and Bryn Mawr Ave. ✅
 * Bus Traffic ✅
 * Employee counts, local businesses within *walking shed - inference
 * PHL airport distance and ridership ✅
 * Priorities
+
+*Observations on both sides of street from parking lot on four connected streets (Lancaster Avenue, Morris Avenue, N Bryn Mawr Ave before and after turn). See attached spreadsheet. 
 
 *Walking Shed Assumption (from Northern corner at New Gulph Road and N Roberts Road) - New Gulph Road southeast to Pennswood Road, Pennswood Road / Penn Street southwest to Railroad Avenue, Railroad Avenue northwest to five points corner of S Bryn Mawr Avenue and County Line Road, County Line Road northwest past Bryn Mawr Hospital and Bryn Mawr Light Rail Station to S Roberts Road, S Roberts Road northeast to Lancaster Avenue, Lancaster Avenue southeast to N Roberts Road, N Roberts Road to Northern corncer at New Gulph Road. 
 
