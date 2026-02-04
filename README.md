@@ -1,7 +1,6 @@
 # 7North
 
-"The original design and development of Bryn Mawr was an early form of TOD (Transit-Oriented Development), as were other Main
-Line communities that developed along the Main Line of the Pennsylvania Railroad. By re-enforcing
+"The original design and development of Bryn Mawr was an early form of TOD (Transit-Oriented Development), as were other Main Line communities that developed along the Main Line of the Pennsylvania Railroad. By re-enforcing
 the TOD concept in Bryn Mawr, we are reconnecting the community with its origins. By promoting
 transit-oriented development, there is potential to increase the number of rail riders and to realize a
 better return on public investment in infrastructure and services."
@@ -29,24 +28,16 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 
 * College attendance ✅
 * Rail Traffic ✅
-* Bus Traffic ✅
 * Pedestrian Traffic - inference by *personal observation ✅
 * Car Traffic - traffic along Lancaster Ave. and Bryn Mawr Ave. ✅
+* Bus Traffic ✅
 * Employee counts, local businesses within *walking shed - inference
 * PHL airport distance and ridership ✅
 * Priorities
 
-College attendance is taken from datausa.io. 
+*Observations on both sides of street from parking lot on four connected streets (Lancaster Avenue, Morris Avenue, N Bryn Mawr Ave before and after turn). See attached spreadsheet. 
 
-Rail traffic and bus traffic were furnished by request directly from SEPTA. 
-
-*Pedestrian traffic was inferred using hourly observations on various days during the spring and early summer of 2025. The temperatures were characteristic of spring from 45F to 75F, and weather conditions included sunny, cloudy, and rainy. Observations are noted on both sides of street from parking lot on four connected streets (Lancaster Avenue, Morris Avenue, N Bryn Mawr Ave before and after turn). See attached spreadsheet and map showing the crossing points. Some individuals are counted twice considering they are customers of a local business (WSFS, Post Office, 7-11, etc.) I did not intentionally count them more than twice, and in the case someone is straddling the line talking in a group, waiting for a bus in the case that the line falls along the bus stop, working (construction workers were repainting and rewelding the wrought-iron fence several days) or is making multiple trips within a short time to a business (such as the dry cleaners), they are counted only twice. It should be anecdotally noted that observed pedestrian traffic notably increases one block west of this area (near the Bryn Mawr Film Institute) and in the case of a business at Lot 7, could certainly be expected to organically increase given the expansion of the dense business grid with this project. For purposes of pedestrian counts, the focus is on anyone who could stop and make an impulse buy without parking a vehicle or locking up a bike or similar, so every person is who is not in a vehicle or riding a bicycle or scooter is counted as one. So a person pushing a stroller with a baby would count as two, a person riding a skateboard would count as one (although I didn't see any), a person walking a dog would count as one, and a group of five jogging would count as five. 
-
-*Car traffic is taken from https://gis.penndot.pa.gov/BPR_PDF_FILES/MAPS/Traffic/Traffic_Volume/Statewide/Statewide_2022_tv.pdf
-
-*Employee counts use Walking Shed Assumption (from Northern corner at New Gulph Road and N Roberts Road) - New Gulph Road southeast to Pennswood Road, Pennswood Road / Penn Street southwest to Railroad Avenue, Railroad Avenue northwest to five points corner of S Bryn Mawr Avenue and County Line Road, County Line Road northwest past Bryn Mawr Hospital and Bryn Mawr Light Rail Station to S Roberts Road, S Roberts Road northeast to Lancaster Avenue, Lancaster Avenue southeast to N Roberts Road, N Roberts Road to Northern corncer at New Gulph Road. To estimate this, all frontage-facing businesses along both sides of the roads mentioned are included (notably Love and Honey and Kelly's Tavern) , as well as businesses on opposite corners of an extreme corner (notably Dunkin' Donuts and Wawa), and any other businesses inside the boundaries (notably Lancaster, Bryn Mawr, and Montgomery Avenues). I took all businesses within this walking shed area, totaled the values by square foot, and dropped them into buckets according to their NAICS code, then used the value of each NAICS bucket to infer an employee count. As with other metrics in this study, it does not differentiate between higher or lower paid work, part-time or full-time work, nor owners or hourly employees. Further study could differentiate the employees, but it is important to note that this is a very diverse area with not only retail employees, but medical, legal, education, and FIRE workers included in the calculation. I do not expect many doubles, or individuals that work part-time in two different locations within the walking shed, as it likely represents less than a percent of the total employee count.  
-
-*Philadelphia Airport traffic was taken from https://www.faa.gov/sites/faa.gov/files/2024-10/cy23-commercial-service-enplanements.pdf
+*Walking Shed Assumption (from Northern corner at New Gulph Road and N Roberts Road) - New Gulph Road southeast to Pennswood Road, Pennswood Road / Penn Street southwest to Railroad Avenue, Railroad Avenue northwest to five points corner of S Bryn Mawr Avenue and County Line Road, County Line Road northwest past Bryn Mawr Hospital and Bryn Mawr Light Rail Station to S Roberts Road, S Roberts Road northeast to Lancaster Avenue, Lancaster Avenue southeast to N Roberts Road, N Roberts Road to Northern corncer at New Gulph Road. 
 
 Micro benefits:
 * Existing traffic, hospital, theater, colleges, businesses and seasonal markets provide a natural market for the project
