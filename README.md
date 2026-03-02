@@ -34,6 +34,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 * Employee counts, local businesses within walking shed - inference
 * PHL airport distance and ridership ✅
 * Priorities
+* Finalizing metrics
 
 College attendance is taken from datausa.io. 
 
