@@ -113,6 +113,7 @@ Further research:
 * Urban 3 Consulting and similar
 * Urbanism movement and 10 principles of intelligent urbanism
 * Virginia's Bull's Eye concept around stations, in particular the Silver and Orange lines
+* Delaware Valley TOD https://www.dvrpc.org/tod/
 * Charles Marohn and the Strong Towns Initiative https://www.strongtowns.org/
 * Jarrett Walker and the Human Transit Blog https://humantransit.org/
 * Michael Sutherland and Hatch Urban Solutions https://www.hatch.com/About-Us/
