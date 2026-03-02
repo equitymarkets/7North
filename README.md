@@ -107,13 +107,16 @@ Further research:
 * Line extension to Coatesville
 * New Norristown speed line spur to KOP mall - on hold indefinitely due to FTA concerns
 * County Line Station improvements and reopening
-* Strong Towns Initiative and Transit Priorities based upon these ideas
+
 * Growth near Radnor Station
 * Urban 3 Consulting and similar
 * Urbanism movement and 10 principles of intelligent urbanism
 * Virginia's Bull's Eye concept around stations, in particular the Silver and Orange lines
-* Nassim Taleb's concept of anti-fragility and the enhancement of this which this project brings
-* Peter Calthorpe and TOD
+* Charles Marohn and the Strong Towns Initiative https://www.strongtowns.org/
+* Jarrett Walker and the Human Transit Blog https://humantransit.org/
+* Michael Sutherland and Hatch Urban Solutions https://www.hatch.com/About-Us/
+* Nassim Taleb's concept of anti-fragility https://www.fooledbyrandomness.com/
+* Peter Calthorpe and TOD https://www.hdrinc.com/markets/urban-community-development?trafficsource=calthorpe
 
 Links:
 Japan's TOD: https://www.mlit.go.jp/common/001398605.pdf
