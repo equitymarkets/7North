@@ -1,4 +1,4 @@
-# 7North
+# 7North Lifestyle Center
 
 "The original design and development of Bryn Mawr was an early form of TOD (Transit-Oriented Development), as were other Main Line communities that developed along the Main Line of the Pennsylvania Railroad. By re-enforcing
 the TOD concept in Bryn Mawr, we are reconnecting the community with its origins. By promoting
