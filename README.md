@@ -168,7 +168,7 @@ Rendering Ideas, research capabilities and cost:
 2. Revit
 3. SketchUp
 
-
+-systems thinking approach
 
 
 
