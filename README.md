@@ -164,9 +164,10 @@ arched fiberglass walks
 
 
 Rendering Ideas, research capabilities and cost:
-1. AutoCad
-2. Revit
-3. SketchUp
+1. Archicad
+2. AutoCad
+3. Revit
+4. SketchUp
 
 -systems thinking approach
 
