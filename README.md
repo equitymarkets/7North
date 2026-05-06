@@ -122,6 +122,8 @@ Further research:
 * Michael Sutherland and Hatch Urban Solutions https://www.hatch.com/About-Us/
 * Nassim Taleb's concept of anti-fragility https://www.fooledbyrandomness.com/
 * Peter Calthorpe and TOD https://www.hdrinc.com/markets/urban-community-development?trafficsource=calthorpe
+* MPact https://www.mpactmobility.org/
+* Congress for new urbanism https://www.cnu.org/
 
 Possible Partnerships - representing large organizations that may be interested in employee or executive packages for corporate retreats or employee lodging during travel
 
