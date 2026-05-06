@@ -117,6 +117,7 @@ Further research:
 * Center for Transit-Oriented Development https://toddata.cnt.org/
 * Japan's TOD: https://www.mlit.go.jp/common/001398605.pdf
 * Delaware Valley TOD https://www.dvrpc.org/tod/
+* Montgomery County TOD https://www.montgomerycountypa.gov/DocumentCenter/View/33039/Transit-Oriented-Dev-Book_web
 * Charles Marohn and the Strong Towns Initiative https://www.strongtowns.org/
 * Jarrett Walker and the Human Transit Blog https://humantransit.org/
 * Michael Sutherland and Hatch Urban Solutions https://www.hatch.com/About-Us/
