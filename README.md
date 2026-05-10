@@ -80,6 +80,7 @@ Challenges
 * 200 spaces temporarily lost during construction (see forcing points below)
 * SEPTA funding issues and PAO threats
 * Common ground needed between Lower Merion Township, PennDot, Amtrak, SEPTA, and possibly other parties
+* Real and perceived danger in the form of crime in and around stations in the highly-populated eastern section of the line (30th Street, Suburban, Jefferson, and Temple Stations) can provide discouragement, especially for visitors to Philadelphia, to even eplore public transportation in any form, especially if they have a vehicle on hand.  
 
 Study Challenges (Development of Proof of Concept) 
 * Comparing data across metro services, boarding vs. total vs. unique - Boarding seems to be most readily available and should give a number close to unique trips. 
