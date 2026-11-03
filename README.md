@@ -35,6 +35,7 @@ Since no two areas are alike, the main idea for the feasibility study is to find
 * PHL airport distance and ridership ✅
 * Priorities
 * Finalizing metrics
+* GIS information
 
 College attendance is taken from datausa.io. 
 
