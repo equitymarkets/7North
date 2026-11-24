@@ -105,9 +105,9 @@ Forcing Points - Forcing points should be considered as time contraints rather t
 *  Growing amounts of lodging space in Radnor Township, City Line Avenue, and King of Prussia. 
 
 Further research:
-* 30th Street Station Improvements
+* 30th Street Station Improvements - NEW CONCOURSE FINISHED NOV. 2026
 * Possible Philadelphia 76ers Market East project (Jefferson Station) - CANCELLED PERMANENTLY
-* Line extension to Coatesville
+* Line extension to Coatesville 
 * New Norristown speed line spur to KOP mall - on hold indefinitely due to FTA concerns
 * County Line Station improvements and reopening 
 
