@@ -108,10 +108,9 @@ Further research:
 * 30th Street Station Improvements - NEW CONCOURSE FINISHED NOV. 2026
 * Possible Philadelphia 76ers Market East project (Jefferson Station) - CANCELLED PERMANENTLY
 * Line extension to Coatesville 
-* New Norristown speed line spur to KOP mall - on hold indefinitely due to FTA concerns
-* County Line Station improvements and reopening 
-
-* Growth near Radnor Station
+* New Norristown speed line spur to KOP mall - FTA CONCERNS, COST OVERRUNS, NIMBY PUSHBACK, QUESTIONABLE LINE NODES
+* County Line Station improvements and reopening - POOR INFRASTRUCTURE
+* Growth near Radnor Station - NEW BRANDWINE HOTEL
 * Urban 3 Consulting and similar
 * Urbanism movement and 10 principles of intelligent urbanism
 * Virginia's Bull's Eye concept around stations, in particular the Silver and Orange lines
